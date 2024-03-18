@@ -1,0 +1,4 @@
+2024-03-18 16:12:56.3902 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-03-18 16:12:56.4460 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.8.2366. Product version: 5.2.8+f586f1341c46fa38aaaff4c641e7f0fa7e813943. GlobalAssemblyCache: False
+2024-03-18 16:12:56.4630 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\YILDIZ\Desktop\Work\BTK_Akademi\WEB_API\BTK_API\WebAPI\nlog.config
+2024-03-18 16:12:56.4786 Info Configuration initialized.
