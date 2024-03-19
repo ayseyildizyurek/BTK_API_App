@@ -25,6 +25,10 @@ namespace WebAPI
 			builder.Services.ConfigureServiceManager();
 			builder.Services.ConfigureLoggerService();
 
+			//Automapper
+
+			builder.Services.AddAutoMapper(typeof(Program));
+
 			var app = builder.Build();
 
 			//Exception Config
