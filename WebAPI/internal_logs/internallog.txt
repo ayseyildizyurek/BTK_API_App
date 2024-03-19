@@ -2,3 +2,17 @@
 2024-03-18 16:12:56.4460 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.8.2366. Product version: 5.2.8+f586f1341c46fa38aaaff4c641e7f0fa7e813943. GlobalAssemblyCache: False
 2024-03-18 16:12:56.4630 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\YILDIZ\Desktop\Work\BTK_Akademi\WEB_API\BTK_API\WebAPI\nlog.config
 2024-03-18 16:12:56.4786 Info Configuration initialized.
+2024-03-19 10:13:54.4561 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-03-19 10:13:54.5637 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.8.2366. Product version: 5.2.8+f586f1341c46fa38aaaff4c641e7f0fa7e813943. GlobalAssemblyCache: False
+2024-03-19 10:13:54.5806 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\YILDIZ\Desktop\Work\BTK_Akademi\WEB_API\BTK_API\WebAPI\nlog.config
+2024-03-19 10:13:54.5950 Info Configuration initialized.
+2024-03-19 10:20:13.0728 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-03-19 10:20:13.0903 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.8.2366. Product version: 5.2.8+f586f1341c46fa38aaaff4c641e7f0fa7e813943. GlobalAssemblyCache: False
+2024-03-19 10:20:13.1045 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\YILDIZ\Desktop\Work\BTK_Akademi\WEB_API\BTK_API\WebAPI\nlog.config
+2024-03-19 10:20:13.1045 Info Configuration initialized.
+2024-03-19 10:20:41.3131 Info AppDomain Shutting down. LogFactory closing...
+2024-03-19 10:20:41.3252 Info LogFactory has been closed.
+2024-03-19 11:39:33.6652 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-03-19 11:39:33.7085 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.8.2366. Product version: 5.2.8+f586f1341c46fa38aaaff4c641e7f0fa7e813943. GlobalAssemblyCache: False
+2024-03-19 11:39:33.7322 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\YILDIZ\Desktop\Work\BTK_Akademi\WEB_API\BTK_API\WebAPI\nlog.config
+2024-03-19 11:39:33.7518 Info Configuration initialized.

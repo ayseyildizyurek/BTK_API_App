@@ -1,6 +1,7 @@
 using Microsoft.EntityFrameworkCore;
 using NLog;
 using Repositories.EFCore;
+using Services.Contracts;
 using WebAPI.Extensions;
 
 
@@ -25,6 +26,17 @@ namespace WebAPI
 			builder.Services.ConfigureLoggerService();
 
 			var app = builder.Build();
+
+			//Exception Config
+			var logger=app.Services.GetRequiredService<ILoggerService>();
+			app.ConfigureExceptionHandler(logger);
+
+			if (app.Environment.IsProduction())
+			{
+				app.UseHsts();
+			}
+
+
 
 			if (app.Environment.IsDevelopment())
 			{
