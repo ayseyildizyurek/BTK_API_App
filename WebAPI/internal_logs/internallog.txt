@@ -16,3 +16,43 @@
 2024-03-19 11:39:33.7085 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.8.2366. Product version: 5.2.8+f586f1341c46fa38aaaff4c641e7f0fa7e813943. GlobalAssemblyCache: False
 2024-03-19 11:39:33.7322 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\YILDIZ\Desktop\Work\BTK_Akademi\WEB_API\BTK_API\WebAPI\nlog.config
 2024-03-19 11:39:33.7518 Info Configuration initialized.
+2024-03-19 16:32:09.7284 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-03-19 16:32:09.7996 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.8.2366. Product version: 5.2.8+f586f1341c46fa38aaaff4c641e7f0fa7e813943. GlobalAssemblyCache: False
+2024-03-19 16:32:09.8156 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\YILDIZ\Desktop\Work\BTK_Akademi\WEB_API\BTK_API\WebAPI\nlog.config
+2024-03-19 16:32:09.8298 Info Configuration initialized.
+2024-03-19 16:42:06.2234 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-03-19 16:42:06.2665 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.8.2366. Product version: 5.2.8+f586f1341c46fa38aaaff4c641e7f0fa7e813943. GlobalAssemblyCache: False
+2024-03-19 16:42:06.2949 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\YILDIZ\Desktop\Work\BTK_Akademi\WEB_API\BTK_API\WebAPI\nlog.config
+2024-03-19 16:42:06.3210 Info Configuration initialized.
+2024-03-19 16:44:39.6661 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-03-19 16:44:39.7245 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.8.2366. Product version: 5.2.8+f586f1341c46fa38aaaff4c641e7f0fa7e813943. GlobalAssemblyCache: False
+2024-03-19 16:44:39.7529 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\YILDIZ\Desktop\Work\BTK_Akademi\WEB_API\BTK_API\WebAPI\nlog.config
+2024-03-19 16:44:39.7782 Info Configuration initialized.
+2024-03-19 16:47:43.2576 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-03-19 16:47:43.3001 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.8.2366. Product version: 5.2.8+f586f1341c46fa38aaaff4c641e7f0fa7e813943. GlobalAssemblyCache: False
+2024-03-19 16:47:43.3292 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\YILDIZ\Desktop\Work\BTK_Akademi\WEB_API\BTK_API\WebAPI\nlog.config
+2024-03-19 16:47:43.3566 Info Configuration initialized.
+2024-03-19 16:54:53.0294 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-03-19 16:54:53.0839 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.8.2366. Product version: 5.2.8+f586f1341c46fa38aaaff4c641e7f0fa7e813943. GlobalAssemblyCache: False
+2024-03-19 16:54:53.1097 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\YILDIZ\Desktop\Work\BTK_Akademi\WEB_API\BTK_API\WebAPI\nlog.config
+2024-03-19 16:54:53.1297 Info Configuration initialized.
+2024-03-19 16:56:42.5532 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-03-19 16:56:42.6013 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.8.2366. Product version: 5.2.8+f586f1341c46fa38aaaff4c641e7f0fa7e813943. GlobalAssemblyCache: False
+2024-03-19 16:56:42.6329 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\YILDIZ\Desktop\Work\BTK_Akademi\WEB_API\BTK_API\WebAPI\nlog.config
+2024-03-19 16:56:42.6570 Info Configuration initialized.
+2024-03-19 17:00:28.8427 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-03-19 17:00:28.9823 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.8.2366. Product version: 5.2.8+f586f1341c46fa38aaaff4c641e7f0fa7e813943. GlobalAssemblyCache: False
+2024-03-19 17:00:29.0096 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\YILDIZ\Desktop\Work\BTK_Akademi\WEB_API\BTK_API\WebAPI\nlog.config
+2024-03-19 17:00:29.0346 Info Configuration initialized.
+2024-03-19 17:01:11.8373 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-03-19 17:01:11.8832 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.8.2366. Product version: 5.2.8+f586f1341c46fa38aaaff4c641e7f0fa7e813943. GlobalAssemblyCache: False
+2024-03-19 17:01:11.9097 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\YILDIZ\Desktop\Work\BTK_Akademi\WEB_API\BTK_API\WebAPI\nlog.config
+2024-03-19 17:01:11.9342 Info Configuration initialized.
+2024-03-19 17:02:10.2725 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-03-19 17:02:10.3097 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.8.2366. Product version: 5.2.8+f586f1341c46fa38aaaff4c641e7f0fa7e813943. GlobalAssemblyCache: False
+2024-03-19 17:02:10.3330 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\YILDIZ\Desktop\Work\BTK_Akademi\WEB_API\BTK_API\WebAPI\nlog.config
+2024-03-19 17:02:10.3532 Info Configuration initialized.
+2024-03-20 09:49:30.6053 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-03-20 09:49:30.6732 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.8.2366. Product version: 5.2.8+f586f1341c46fa38aaaff4c641e7f0fa7e813943. GlobalAssemblyCache: False
+2024-03-20 09:49:30.6906 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\YILDIZ\Desktop\Work\BTK_Akademi\WEB_API\BTK_API\WebAPI\nlog.config
+2024-03-20 09:49:30.7037 Info Configuration initialized.

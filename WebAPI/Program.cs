@@ -15,11 +15,18 @@ namespace WebAPI
 
 			LogManager.LoadConfiguration(String.Concat(Directory.GetCurrentDirectory(), "/nlog.config"));
 
-			builder.Services.AddControllers().AddApplicationPart(typeof(Presentation.AssemblyRefence).Assembly).AddNewtonsoftJson();
+			builder.Services.AddControllers(config =>
+			{
+				config.RespectBrowserAcceptHeader = true; //içerik pazarlýðý konfigürasyonu defaultu false pazarlýða açýksak true ya çekmemiz gerek
+				config.ReturnHttpNotAcceptable = true; //Kabul etmediðimiz formatta bir taleple karþýlaþtýðýmýzda bunu istemciyle paylaþýyoruz (406 not acceptable olarak)
+			}).AddCustomCsvFormatter() //ayarlarý utilities ve extensions da
+			.AddXmlDataContractSerializerFormatters() //xml formatýnda da çýktý vermek için ekledik
+			.AddApplicationPart(typeof(Presentation.AssemblyRefence).Assembly).AddNewtonsoftJson();
 
 			builder.Services.AddEndpointsApiExplorer();
 			builder.Services.AddSwaggerGen();
 
+			//Extensions
 			builder.Services.ConfigureSqlContext(builder.Configuration);
 			builder.Services.ConfigureRepositoryManager();
 			builder.Services.ConfigureServiceManager();
